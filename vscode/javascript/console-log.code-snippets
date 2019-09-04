@@ -1,0 +1,9 @@
+{
+  "Console.log": {
+    "prefix": "snConsoleLog",
+    "body": [
+      "console.log('%c${1:object}', 'color:chartreuse; background-color: black; padding:10px;');"
+    ],
+    "description": "console.log with CSS style"
+  }
+}
