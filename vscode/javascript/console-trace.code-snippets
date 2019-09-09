@@ -2,7 +2,8 @@
   "Console.trace": {
     "prefix": "snConsoleTrace",
     "body": [
-      "console.trace('%c${1:object}', 'color:chartreuse; background-color: black; padding:10px;');"
+      "console.trace('%c' + ${1:object},",
+      "'color:chartreuse; background-color: black; padding:10px;');"
     ],
     "description": "console.trace with CSS style"
   }
