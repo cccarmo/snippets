@@ -1,3 +1,3 @@
 # snippets
 
-A repository to keep interessant snippets
+A repository to keep interesting snippets
